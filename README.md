@@ -1,2 +1,2 @@
 # portfolio
-Using HTML and CSS
+Created a portfolio using HTML and CSS
